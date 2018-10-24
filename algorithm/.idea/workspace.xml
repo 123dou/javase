@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eebef6a4-b19a-492f-856f-49ec5b8d521c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/algs4/testAlgs4/TestBTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/algs4/testAlgs4/TestDraw.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/algs4/tree/rbTree/RBT.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/algs4/tree/rbTree/RBTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/algs4/tree/rbTree/RBTree2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/TreeAndList/ListNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/TreeAndList/TreeNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/TreeAndDiagram/BinaryTreeMaximumPathSum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/TreeAndDiagram/BuildTreeWithInorderAndPostorder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/MaximumProductOfThreeNumbers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/SearchA2dMatrix.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/SearchInRotatedSortedArrayII.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/primary/array/FindAllNumbersDisappearedInAnArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/primary/array/ThirdMaximumNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/traceback/SubsetsII.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/testDemo/FindAllDuplicatesInAnArray.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/graph/IndexMinPQ.java" afterPath="$PROJECT_DIR$/src/algs4/graph/IndexMinPQ.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/graph/WeightGraph/directedGraph/DirectedEdge.java" afterPath="$PROJECT_DIR$/src/algs4/graph/WeightGraph/directedGraph/DirectedEdge.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/graph/WeightGraph/undirectedGraph/KruskalMST.java" afterPath="$PROJECT_DIR$/src/algs4/graph/WeightGraph/undirectedGraph/KruskalMST.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/graph/WeightGraph/undirectedGraph/PrimMST.java" afterPath="$PROJECT_DIR$/src/algs4/graph/WeightGraph/undirectedGraph/PrimMST.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/graph/directedGraph/DepthFirstOrder.java" afterPath="$PROJECT_DIR$/src/algs4/graph/directedGraph/DepthFirstOrder.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/graph/directedGraph/DiGraph.java" afterPath="$PROJECT_DIR$/src/algs4/graph/directedGraph/DiGraph.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/graph/directedGraph/DirectedDFS.java" afterPath="$PROJECT_DIR$/src/algs4/graph/directedGraph/DirectedDFS.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/graph/undirectedGraph/DepathFirstPaths.java" afterPath="$PROJECT_DIR$/src/algs4/graph/undirectedGraph/DepathFirstPaths.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/graph/undirectedGraph/GraphUtil.java" afterPath="$PROJECT_DIR$/src/algs4/graph/undirectedGraph/GraphUtil.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/graph/undirectedGraph/Search.java" afterPath="$PROJECT_DIR$/src/algs4/graph/undirectedGraph/Search.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/sorting/InsertionSorting.java" afterPath="$PROJECT_DIR$/src/algs4/sorting/InsertionSorting.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/sorting/SelectionSorting.java" afterPath="$PROJECT_DIR$/src/algs4/sorting/SelectionSorting.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/sorting/ShellSorting.java" afterPath="$PROJECT_DIR$/src/algs4/sorting/ShellSorting.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/string/regex/NFA.java" afterPath="$PROJECT_DIR$/src/algs4/string/regex/NFA.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/string/search/BoyerMoore.java" afterPath="$PROJECT_DIR$/src/algs4/string/search/BoyerMoore.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/string/search/SearchSubString.java" afterPath="$PROJECT_DIR$/src/algs4/string/search/SearchSubString.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/string/sort/MSD.java" afterPath="$PROJECT_DIR$/src/algs4/string/sort/MSD.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/string/wordSearchTree/TST.java" afterPath="$PROJECT_DIR$/src/algs4/string/wordSearchTree/TST.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/string/wordSearchTree/TrieST.java" afterPath="$PROJECT_DIR$/src/algs4/string/wordSearchTree/TrieST.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/string/wordSearchTree/TrieSTTest.java" afterPath="$PROJECT_DIR$/src/algs4/string/wordSearchTree/TrieSTTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/tree/rbTree/BinaryTree.java" afterPath="$PROJECT_DIR$/src/algs4/tree/rbTree/BinaryTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/tree/rbTree/BinaryTreeTest.java" afterPath="$PROJECT_DIR$/src/algs4/tree/rbTree/BinaryTreeTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/tree/rbTree/RBTree.java" afterPath="$PROJECT_DIR$/src/algs4/tree/rbTree/RBTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/algs4/union_find/WeightedQuickUnionUF.java" afterPath="$PROJECT_DIR$/src/algs4/union_find/WeightedQuickUnionUF.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/BitOperation/BinaryNumberWithAlternatingBits.java" afterPath="$PROJECT_DIR$/src/leetcode/BitOperation/BinaryNumberWithAlternatingBits.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/PalindromePairs.java" afterPath="$PROJECT_DIR$/src/leetcode/PalindromePairs.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dfs/BanlanceBinaryTree.java" afterPath="$PROJECT_DIR$/src/leetcode/dfs/BanlanceBinaryTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dfs/MinimumDepthOfBinaryTree.java" afterPath="$PROJECT_DIR$/src/leetcode/dfs/MinimumDepthOfBinaryTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/difficult/arrayAndString/MedianOfTwoSortedArrays.java" afterPath="$PROJECT_DIR$/src/leetcode/difficult/arrayAndString/MedianOfTwoSortedArrays.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/difficult/arrayAndString/ProductOfArrayExceptSelf.java" afterPath="$PROJECT_DIR$/src/leetcode/difficult/arrayAndString/ProductOfArrayExceptSelf.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/difficult/arrayAndString/RegexOfMatch.java" afterPath="$PROJECT_DIR$/src/leetcode/difficult/arrayAndString/RegexOfMatch.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/difficult/dynamic/IsInterleave.java" afterPath="$PROJECT_DIR$/src/leetcode/difficult/dynamic/IsInterleave.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/difficult/dynamic/WashMachine.java" afterPath="$PROJECT_DIR$/src/leetcode/difficult/dynamic/WashMachine.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dynamic/GenerateTrees.java" afterPath="$PROJECT_DIR$/src/leetcode/dynamic/GenerateTrees.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dynamic/NumDecodings.java" afterPath="$PROJECT_DIR$/src/leetcode/dynamic/NumDecodings.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dynamic/NumTrees.java" afterPath="$PROJECT_DIR$/src/leetcode/dynamic/NumTrees.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dynamic/OneAndZeroes.java" afterPath="$PROJECT_DIR$/src/leetcode/dynamic/OneAndZeroes.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dynamic/Triangle.java" afterPath="$PROJECT_DIR$/src/leetcode/dynamic/Triangle.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dynamic/UniquePathsWithObstacles.java" afterPath="$PROJECT_DIR$/src/leetcode/dynamic/UniquePathsWithObstacles.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dynamic/WrokBreak.java" afterPath="$PROJECT_DIR$/src/leetcode/dynamic/WrokBreak.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/Backtracking/BackTrackingFramework.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/Backtracking/BackTrackingFramework.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/Backtracking/Exist.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/Backtracking/Exist.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/Backtracking/GenerateParenthesis.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/Backtracking/GenerateParenthesis.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/Backtracking/Permute.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/Backtracking/Permute.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/Backtracking/SubSets.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/Backtracking/SubSets.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/LinkedList/LinkListQuestion.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/LinkedList/LinkListQuestion.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/LinkedList/ListNode.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/LinkedList/MergeKSortedLists.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/LinkedList/MergeKSortedLists.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/LinkedList/SortList.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/LinkedList/SortList.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/TreeAndDiagram/TreeNode.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/TreeAndDiagram/TreeQuestion.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/TreeAndDiagram/TreeQuestion.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/ContainerWthMostWater.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/ContainerWthMostWater.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/ContinuousSubarraySum.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/ContinuousSubarraySum.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/FindKClosestElements.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/FindKClosestElements.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/IncreasingTriplet.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/IncreasingTriplet.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/LengthOfLongestSubstring.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/LengthOfLongestSubstring.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/LongestPalindrome.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/LongestPalindrome.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/NextPermutation.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/NextPermutation.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/ThreeSum.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/ThreeSum.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/ThreeSumClosest.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/ThreeSumClosest.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/designProblem/SerializeAndDeserialize.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/designProblem/SerializeAndDeserialize.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/dynamicPlanning/CanJump.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/dynamicPlanning/CanJump.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/dynamicPlanning/CoinChange.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/dynamicPlanning/CoinChange.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/dynamicPlanning/LongestIncreasingSubsequence.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/dynamicPlanning/LongestIncreasingSubsequence.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/math/Divide.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/math/Divide.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/math/FractionToDecimal.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/math/FractionToDecimal.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/math/IsHappy.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/math/IsHappy.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/math/MyPow.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/math/MyPow.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/math/TrailingZeroes.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/math/TrailingZeroes.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/other/EvalRPN.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/other/EvalRPN.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/other/GetSum.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/other/GetSum.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/other/LeastInterval.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/other/LeastInterval.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/other/MajorityEllement.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/other/MajorityEllement.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/sortAndSearch/FindKthLargest.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/sortAndSearch/FindKthLargest.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/sortAndSearch/Search.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/sortAndSearch/Search.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/sortAndSearch/SearchMatrix.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/sortAndSearch/SearchMatrix.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/sortAndSearch/SearchRange.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/sortAndSearch/SearchRange.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/sortAndSearch/SortColors.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/sortAndSearch/SortColors.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/sortAndSearch/findPeakElement.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/sortAndSearch/findPeakElement.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/intermediate/sortAndSearch/mergeInterval.java" afterPath="$PROJECT_DIR$/src/leetcode/intermediate/sortAndSearch/mergeInterval.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/array/IsValidSudoku.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/array/IsValidSudoku.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/array/MaxProfit.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/array/MaxProfit.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/array/MoveZeroes.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/array/MoveZeroes.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/array/RemoveDuplicates.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/array/RemoveDuplicates.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/array/RotateMatrix.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/array/RotateMatrix.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/array/SingleNumber.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/array/SingleNumber.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/array/TwoSum.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/array/TwoSum.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/design/MinStack.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/design/MinStack.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/design/MinStack2.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/design/MinStack2.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/design/ShuffleAnArray.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/design/ShuffleAnArray.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/dynamicPlanning/ClimbStairs.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/dynamicPlanning/ClimbStairs.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/dynamicPlanning/MaxSubArray.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/dynamicPlanning/MaxSubArray.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/dynamicPlanning/Maxprofit.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/dynamicPlanning/Maxprofit.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/dynamicPlanning/Rob.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/dynamicPlanning/Rob.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/linkedList/Linkedlist.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/linkedList/Linkedlist.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/linkedList/ListNode.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/linkedList/RotateList.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/linkedList/RotateList.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/math/CountPrimes.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/math/CountPrimes.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/math/IsPowerOfThree.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/math/IsPowerOfThree.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/math/RomanToInt.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/math/RomanToInt.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/other/MissingNumber.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/other/MissingNumber.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/other/ReverseBits.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/other/ReverseBits.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/sortAndSearch/Merge.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/sortAndSearch/Merge.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/string/FirstUniqChar.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/string/FirstUniqChar.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/string/IsAnagram.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/string/IsAnagram.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/string/IsPalindrome.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/string/IsPalindrome.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/string/ReverseString.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/string/ReverseString.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/tree/TreeNode.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/tree/TreeNodeExercise.java" afterPath="$PROJECT_DIR$/src/leetcode/primary/tree/TreeNodeExercise.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/traceback/CombinationSum2.java" afterPath="$PROJECT_DIR$/src/leetcode/traceback/CombinationSum2.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/traceback/ConbinationSum.java" afterPath="$PROJECT_DIR$/src/leetcode/traceback/ConbinationSum.java" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/traceback/LetterCasePermutation.java" afterPath="$PROJECT_DIR$/src/leetcode/traceback/LetterCasePermutation.java" />
+      <change beforePath="$PROJECT_DIR$/src/niukewang/DynamicPlanning/backpackProblem/Backpack01.java" afterPath="$PROJECT_DIR$/src/niukewang/DynamicPlanning/backpackProblem/Backpack01.java" />
+      <change beforePath="$PROJECT_DIR$/src/niukewang/DynamicPlanning/ladder.java" afterPath="$PROJECT_DIR$/src/niukewang/DynamicPlanning/ladder.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/Add.java" afterPath="$PROJECT_DIR$/src/swordToOffer/Add.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/Convert.java" afterPath="$PROJECT_DIR$/src/swordToOffer/Convert.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/DeleteDuplication.java" afterPath="$PROJECT_DIR$/src/swordToOffer/DeleteDuplication.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/Duplicate.java" afterPath="$PROJECT_DIR$/src/swordToOffer/Duplicate.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/EntryNodeOfLoop.java" afterPath="$PROJECT_DIR$/src/swordToOffer/EntryNodeOfLoop.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/Fibonacci.java" afterPath="$PROJECT_DIR$/src/swordToOffer/Fibonacci.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/FindFirstCommonNode.java" afterPath="$PROJECT_DIR$/src/swordToOffer/FindFirstCommonNode.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/FindGreatestSumOfSubArray.java" afterPath="$PROJECT_DIR$/src/swordToOffer/FindGreatestSumOfSubArray.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/FindInTwoDimensionArray.java" afterPath="$PROJECT_DIR$/src/swordToOffer/FindInTwoDimensionArray.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/FindKthToTail.java" afterPath="$PROJECT_DIR$/src/swordToOffer/FindKthToTail.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/FindPath.java" afterPath="$PROJECT_DIR$/src/swordToOffer/FindPath.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/FirstUnduplicateOfStream.java" afterPath="$PROJECT_DIR$/src/swordToOffer/FirstUnduplicateOfStream.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/GetNext.java" afterPath="$PROJECT_DIR$/src/swordToOffer/GetNext.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/GetNumberOfK.java" afterPath="$PROJECT_DIR$/src/swordToOffer/GetNumberOfK.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/HasPath.java" afterPath="$PROJECT_DIR$/src/swordToOffer/HasPath.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/HasSubtree.java" afterPath="$PROJECT_DIR$/src/swordToOffer/HasSubtree.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/InversePairs.java" afterPath="$PROJECT_DIR$/src/swordToOffer/InversePairs.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/IsBalanced_Solution.java" afterPath="$PROJECT_DIR$/src/swordToOffer/IsBalanced_Solution.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/IsNumeric.java" afterPath="$PROJECT_DIR$/src/swordToOffer/IsNumeric.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/IsPopOrder.java" afterPath="$PROJECT_DIR$/src/swordToOffer/IsPopOrder.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/IsSymmetrical.java" afterPath="$PROJECT_DIR$/src/swordToOffer/IsSymmetrical.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/JumpFloorII.java" afterPath="$PROJECT_DIR$/src/swordToOffer/JumpFloorII.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/KthNode.java" afterPath="$PROJECT_DIR$/src/swordToOffer/KthNode.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/LastRemaining_Solution.java" afterPath="$PROJECT_DIR$/src/swordToOffer/LastRemaining_Solution.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/MaxInWindows.java" afterPath="$PROJECT_DIR$/src/swordToOffer/MaxInWindows.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/Merge.java" afterPath="$PROJECT_DIR$/src/swordToOffer/Merge.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/Mirror.java" afterPath="$PROJECT_DIR$/src/swordToOffer/Mirror.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/MovingCount.java" afterPath="$PROJECT_DIR$/src/swordToOffer/MovingCount.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/NumberOf1.java" afterPath="$PROJECT_DIR$/src/swordToOffer/NumberOf1.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/NumberOf1Between1AndN_Solution.java" afterPath="$PROJECT_DIR$/src/swordToOffer/NumberOf1Between1AndN_Solution.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/Power.java" afterPath="$PROJECT_DIR$/src/swordToOffer/Power.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/Print.java" afterPath="$PROJECT_DIR$/src/swordToOffer/Print.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/PrintFromTopToBottom.java" afterPath="$PROJECT_DIR$/src/swordToOffer/PrintFromTopToBottom.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/PrintListFromTailToHead.java" afterPath="$PROJECT_DIR$/src/swordToOffer/PrintListFromTailToHead.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/PrintMinNumber.java" afterPath="$PROJECT_DIR$/src/swordToOffer/PrintMinNumber.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/PrintZ.java" afterPath="$PROJECT_DIR$/src/swordToOffer/PrintZ.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/ReConstructBinaryTree.java" afterPath="$PROJECT_DIR$/src/swordToOffer/ReConstructBinaryTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/ReOrderArray.java" afterPath="$PROJECT_DIR$/src/swordToOffer/ReOrderArray.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/RegexMatch.java" afterPath="$PROJECT_DIR$/src/swordToOffer/RegexMatch.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/ReverseList.java" afterPath="$PROJECT_DIR$/src/swordToOffer/ReverseList.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/SerializeAndDeserialize.java" afterPath="$PROJECT_DIR$/src/swordToOffer/SerializeAndDeserialize.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/StrToInt.java" afterPath="$PROJECT_DIR$/src/swordToOffer/StrToInt.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/TreeDepth.java" afterPath="$PROJECT_DIR$/src/swordToOffer/TreeDepth.java" />
+      <change beforePath="$PROJECT_DIR$/src/swordToOffer/VerifySequenceOfBST.java" afterPath="$PROJECT_DIR$/src/swordToOffer/VerifySequenceOfBST.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/tree/rbTree/Main.java" afterPath="$PROJECT_DIR$/src/test/tree/rbTree/Main.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/tree/rbTree/RBTreeTest.java" afterPath="$PROJECT_DIR$/src/test/tree/rbTree/RBTreeTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/testDemo/Main.java" afterPath="$PROJECT_DIR$/src/testDemo/Main.java" />
+      <change beforePath="$PROJECT_DIR$/src/testDemo/MainTest.java" afterPath="$PROJECT_DIR$/src/testDemo/MainTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/testDemo/One.java" afterPath="$PROJECT_DIR$/src/testDemo/One.java" />
+      <change beforePath="$PROJECT_DIR$/src/testDemo/T.java" afterPath="$PROJECT_DIR$/src/testDemo/T.java" />
+      <change beforePath="$PROJECT_DIR$/src/testDemo/Test.java" afterPath="$PROJECT_DIR$/src/testDemo/Test.java" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/algorithm$TrieSTTest_get.coverage" NAME="TrieSTTest.get Coverage Results" MODIFIED="1526129711322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>chapter5_string.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/algorithm$Test.coverage" NAME="Test Coverage Results" MODIFIED="1539242718789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testDemo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/algorithm$RotateMatrix.coverage" NAME="RotateMatrix Coverage Results" MODIFIED="1528102179437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.array.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/algorithm$MajorityEllement.coverage" NAME="MajorityEllement Coverage Results" MODIFIED="1531032268499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.intermediate.other.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DirectedCycle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/graph/directedGraph/DirectedCycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-595">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KosarajuSCC.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/graph/directedGraph/KosarajuSCC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-700">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Topological.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/graph/directedGraph/Topological.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RBTree2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/tree/rbTree/RBTree2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1114">
+              <caret line="61" column="32" lean-forward="false" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+              <folding>
+                <element signature="method#inOrder#0;class#RBTree2#0" expanded="false" />
+                <element signature="method#inOrder#1;class#RBTree2#0" expanded="false" />
+                <element signature="method#levelOrder#0;class#RBTree2#0" expanded="false" />
+                <element signature="method#fixAfterDelete#0;class#RBTree2#0" expanded="false" />
+                <element signature="docComment;method#getSuccessor#0;class#RBTree2#0" expanded="false" />
+                <element signature="method#getSuccessor#0;class#RBTree2#0" expanded="false" />
+                <element signature="method#add#0;class#RBTree2#0" expanded="false" />
+                <element signature="method#fixAfterAdd#0;class#RBTree2#0" expanded="false" />
+                <element signature="method#leftRotate#0;class#RBTree2#0" expanded="false" />
+                <element signature="class#RBNode#0;class#RBTree2#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KruskalMST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/graph/WeightGraph/undirectedGraph/KruskalMST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-83">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DijkstraSP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/graph/WeightGraph/directedGraph/DijkstraSP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-328">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AcyclicSP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/graph/WeightGraph/directedGraph/AcyclicSP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-175">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EdgeWeightedDigraph.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algs4/graph/WeightGraph/directedGraph/EdgeWeightedDigraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimMST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/graph/WeightGraph/undirectedGraph/PrimMST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LazyPrimMST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/graph/WeightGraph/undirectedGraph/LazyPrimMST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/leetcode/primary/tree/TreeNodeExercise.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/Convert.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/IsBalanced_Solution.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/IsSymmetrical.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/KthNode.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/Merge.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/Mirror.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/Print.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/PrintListFromTailToHead.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/SerializeAndDeserialize.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/PrintZ.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dfs/MinimumDepthOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/DeleteDuplication.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/EntryNodeOfLoop.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/FindFirstCommonNode.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/LastRemaining_Solution.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/PrintFromTopToBottom.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/ReConstructBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/ReverseList.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/TreeDepth.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/VerifySequenceOfBST.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/intermediate/TreeAndDiagram/BinaryTreeMaximumPathSum.java" />
+        <option value="$PROJECT_DIR$/src/algs4/testAlgs4/TestDraw.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/SearchA2dMatrix.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/traceback/CombinationSum2.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/traceback/SubsetsII.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/SearchInRotatedSortedArrayII.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/intermediate/TreeAndDiagram/BuildTreeWithInorderAndPostorder.java" />
+        <option value="$PROJECT_DIR$/src/algs4/tree/rbTree/RBT.java" />
+        <option value="$PROJECT_DIR$/src/algs4/tree/rbTree/RBTest.java" />
+        <option value="$PROJECT_DIR$/src/test/tree/rbTree/RBTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/algs4/tree/rbTree/RBTree.java" />
+        <option value="$PROJECT_DIR$/src/algs4/tree/rbTree/RBTree2.java" />
+        <option value="$PROJECT_DIR$/src/testDemo/FindAllDuplicatesInAnArray.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/primary/array/ThirdMaximumNumber.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/primary/array/FindAllNumbersDisappearedInAnArray.java" />
+        <option value="$PROJECT_DIR$/src/testDemo/T.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/MaximumProductOfThreeNumbers.java" />
+        <option value="$PROJECT_DIR$/src/testDemo/One.java" />
+        <option value="$PROJECT_DIR$/src/algs4/testAlgs4/TestBTree.java" />
+        <option value="$PROJECT_DIR$/src/algs4/sorting/Bubble.java" />
+        <option value="$PROJECT_DIR$/src/testDemo/Main.java" />
+        <option value="$PROJECT_DIR$/src/testDemo/Test.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/intermediate/LinkedList/SortList.java" />
+        <option value="$PROJECT_DIR$/src/algs4/tree/rbTree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/IsPopOrder.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/NumberOf1Between1AndN_Solution.java" />
+        <option value="$PROJECT_DIR$/src/testDemo/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/swordToOffer/HasPath.java" />
+        <option value="$PROJECT_DIR$/src/algs4/graph/directedGraph/DepthFirstOrder.java" />
+        <option value="$PROJECT_DIR$/src/algs4/graph/WeightGraph/undirectedGraph/PrimMST.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="directedGraph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="WeightGraph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="WeightGraph" type="462c0819:PsiDirectoryNode" />
+              <item name="directedGraph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="WeightGraph" type="462c0819:PsiDirectoryNode" />
+              <item name="undirectedGraph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="rbTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algs4/algs4.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="chapter5_string" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="graph.directedGraph" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode.intermediate.LinkedList" />
+      <recent name="graph.WeightGraph.directedGraph" />
+      <recent name="graph.undirectedGraph" />
+      <recent name="leetcode.traceback" />
+      <recent name="niukewang.DynamicPlanning.backpackProblem" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkspace\java\algorithm\src\algs4" />
+      <recent name="D:\ideaWorkspace\java\algorithm\src\niukewang\DynamicPlanning\backpackProblem" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HasPath">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="HasPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="swordToOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="swordToOffer.HasPath" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+    </configuration>
+    <configuration name="IsPopOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="swordToOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="swordToOffer.IsPopOrder" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="testDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="testDemo.MainTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+    </configuration>
+    <configuration name="NumberOf1Between1AndN_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="swordToOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="swordToOffer.NumberOf1Between1AndN_Solution" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+    </configuration>
+    <configuration name="SortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.intermediate.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.intermediate.LinkedList.SortList" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="testDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="testDemo.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="readingSourceCode" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SortList" />
+      <item index="2" class="java.lang.String" itemvalue="Application.IsPopOrder" />
+      <item index="3" class="java.lang.String" itemvalue="Application.NumberOf1Between1AndN_Solution" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MainTest" />
+      <item index="5" class="java.lang.String" itemvalue="Application.HasPath" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.HasPath" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MainTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.NumberOf1Between1AndN_Solution" />
+        <item index="3" class="java.lang.String" itemvalue="Application.IsPopOrder" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SortList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\dou\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eebef6a4-b19a-492f-856f-49ec5b8d521c" name="Default" comment="" />
+      <created>1526092075606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526092075606</updated>
+      <workItem from="1526092077663" duration="162000" />
+      <workItem from="1526092251020" duration="316000" />
+      <workItem from="1526092648484" duration="457000" />
+      <workItem from="1526093215395" duration="37217000" />
+      <workItem from="1526266566469" duration="595000" />
+      <workItem from="1526268051292" duration="8255000" />
+      <workItem from="1526315199009" duration="59000" />
+      <workItem from="1526315338091" duration="588000" />
+      <workItem from="1526383996265" duration="1208000" />
+      <workItem from="1526606169172" duration="2058000" />
+      <workItem from="1527232972075" duration="23430000" />
+      <workItem from="1527909615765" duration="103170000" />
+      <workItem from="1528172284066" duration="15667000" />
+      <workItem from="1528196892361" duration="98668000" />
+      <workItem from="1528900789263" duration="596000" />
+      <workItem from="1528944319980" duration="217193000" />
+      <workItem from="1530636072335" duration="18862000" />
+      <workItem from="1530708099737" duration="30259000" />
+      <workItem from="1530878948789" duration="27589000" />
+      <workItem from="1530951347325" duration="27600000" />
+      <workItem from="1531036538320" duration="8412000" />
+      <workItem from="1531113409290" duration="960000" />
+      <workItem from="1531201042140" duration="1332000" />
+      <workItem from="1531223909254" duration="13057000" />
+      <workItem from="1531284626848" duration="4455000" />
+      <workItem from="1531311409627" duration="9093000" />
+      <workItem from="1531371706006" duration="2321000" />
+      <workItem from="1531375020451" duration="766000" />
+      <workItem from="1531401881938" duration="5347000" />
+      <workItem from="1531484428820" duration="59779000" />
+      <workItem from="1531839807577" duration="4376000" />
+      <workItem from="1531925341373" duration="200349000" />
+      <workItem from="1533744913280" duration="1248000" />
+      <workItem from="1533816554065" duration="8797000" />
+      <workItem from="1533903716301" duration="37479000" />
+      <workItem from="1534421519609" duration="66603000" />
+      <workItem from="1535111739482" duration="229882000" />
+      <workItem from="1536885023279" duration="197504000" />
+      <workItem from="1539242492378" duration="14971000" />
+    </task>
+    <task id="LOCAL-00001" summary="算法">
+      <created>1531920185504</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531920185504</updated>
+    </task>
+    <task id="LOCAL-00002" summary="动态规划:单词拆分">
+      <created>1532057572350</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532057572350</updated>
+    </task>
+    <task id="LOCAL-00003" summary="优化">
+      <created>1532228752932</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1532228752932</updated>
+    </task>
+    <task id="LOCAL-00004" summary="优化">
+      <created>1532228783752</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1532228783752</updated>
+    </task>
+    <task id="LOCAL-00005" summary="简洁了点">
+      <created>1532248801820</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1532248801820</updated>
+    </task>
+    <task id="LOCAL-00006" summary="增加了新的解法">
+      <created>1532265485313</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1532265485313</updated>
+    </task>
+    <task id="LOCAL-00007" summary="改进或者添加了新的算法">
+      <created>1532770500126</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1532770500126</updated>
+    </task>
+    <task id="LOCAL-00008" summary="修正了桶排序">
+      <created>1532835265369</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1532835265369</updated>
+    </task>
+    <task id="LOCAL-00009" summary="添加了几个回溯算法题目">
+      <created>1533280707850</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1533280707850</updated>
+    </task>
+    <task id="LOCAL-00010" summary="添加了几个回溯算法题目">
+      <created>1533280938447</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1533280938447</updated>
+    </task>
+    <task id="LOCAL-00011" summary="更新了几个算法题">
+      <created>1537371102823</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1537371102823</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BinaryTreeTest_preOrder - 2018.09.22 at 15h 30m 49s.xml">
+      <configuration name="BinaryTreeTest.preOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSorting_testBubbleSorting - 2018.08.26 at 22h 58m 15s.xml">
+      <configuration name="TestSorting.testBubbleSorting" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSorting_testInsertionSortiong - 2018.08.26 at 22h 57m 26s.xml">
+      <configuration name="TestSorting.testInsertionSortiong" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSorting_testInsertionSortiong - 2018.08.26 at 22h 57m 55s.xml">
+      <configuration name="TestSorting.testInsertionSortiong" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSorting_testInsertionSortiong - 2018.08.26 at 23h 01m 18s.xml">
+      <configuration name="TestSorting.testInsertionSortiong" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSorting_testInsertionSortiong - 2018.08.26 at 23h 01m 46s.xml">
+      <configuration name="TestSorting.testInsertionSortiong" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSorting_testInsertionSortiong - 2018.08.26 at 23h 03m 23s.xml">
+      <configuration name="TestSorting.testInsertionSortiong" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSorting_testInsertionSortiong - 2018.08.26 at 23h 03m 46s.xml">
+      <configuration name="TestSorting.testInsertionSortiong" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSorting_testInsertionSortiong - 2018.08.26 at 23h 04m 15s.xml">
+      <configuration name="TestSorting.testInsertionSortiong" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSorting_testShellSorting - 2018.08.26 at 23h 04m 30s.xml">
+      <configuration name="TestSorting.testShellSorting" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1480680000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1456" height="886" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38903743" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27120823" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27139038" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14910026" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17847222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="算法" />
+    <MESSAGE value="动态规划:单词拆分" />
+    <MESSAGE value="优化" />
+    <MESSAGE value="简洁了点" />
+    <MESSAGE value="增加了新的解法" />
+    <MESSAGE value="改进或者添加了新的算法" />
+    <MESSAGE value="修正了桶排序" />
+    <MESSAGE value="添加了几个回溯算法题目" />
+    <MESSAGE value="更新了几个算法题" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新了几个算法题" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algs4/string/regex/NFA.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="789" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="1039" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="dp" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>strs</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>marked</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>index</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>marked[i][j]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>shortestPath</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tasks</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stack</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>root</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>head</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>listList</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/src/algs4/algs4.jar!/edu/princeton/cs/algs4/AVLTreeST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="66" column="13" lean-forward="false" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/testAlgs4/TestBTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/testAlgs4/TestTST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/algs4/algs4.jar!/edu/princeton/cs/algs4/BTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="162" column="31" lean-forward="true" selection-start-line="162" selection-start-column="31" selection-end-line="162" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/intermediate/arrayAndString/MaximumProductOfThreeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/cache/LFUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niukewang/DynamicPlanning/backpackProblem/Backpack01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="187" column="32" lean-forward="false" selection-start-line="187" selection-start-column="28" selection-end-line="187" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/SortingUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/ShellSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/MSDSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/graph/directedGraph/DirectedDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-770">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/Bubble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/CounteSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/QuickSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2030">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/union_find/Quick_find.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-245">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/union_find/Quick_union.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-805">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/union_find/WeightedQuickUnionUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testDemo/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testDemo/One.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testDemo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="794">
+          <caret line="49" column="21" lean-forward="false" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testDemo/FindAllDuplicatesInAnArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/intermediate/LinkedList/MergeKSortedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/intermediate/LinkedList/SortList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="41" column="10" lean-forward="false" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/tree/rbTree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="120" column="29" lean-forward="true" selection-start-line="120" selection-start-column="29" selection-end-line="120" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer/IsPopOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer/NumberOf1Between1AndN_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-702">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testDemo/MT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-455">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer/FindContinuousSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testDemo/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testDemo/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="44" column="45" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swordToOffer/HasPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/BucketSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1321">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/HeapSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/InsertionSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/LSDSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1343">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/MergeSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-867">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/TestSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4773">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/string/regex/NFA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/graph/IndexMinPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/graph/directedGraph/DepthFirstOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/graph/directedGraph/DiGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-700">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/graph/directedGraph/DirectedCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-595">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/graph/directedGraph/KosarajuSCC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-700">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/graph/directedGraph/Topological.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/tree/rbTree/RBTree2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1114">
+          <caret line="61" column="32" lean-forward="false" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+          <folding>
+            <element signature="method#inOrder#0;class#RBTree2#0" expanded="false" />
+            <element signature="method#inOrder#1;class#RBTree2#0" expanded="false" />
+            <element signature="method#levelOrder#0;class#RBTree2#0" expanded="false" />
+            <element signature="method#fixAfterDelete#0;class#RBTree2#0" expanded="false" />
+            <element signature="docComment;method#getSuccessor#0;class#RBTree2#0" expanded="false" />
+            <element signature="method#getSuccessor#0;class#RBTree2#0" expanded="false" />
+            <element signature="method#add#0;class#RBTree2#0" expanded="false" />
+            <element signature="method#fixAfterAdd#0;class#RBTree2#0" expanded="false" />
+            <element signature="method#leftRotate#0;class#RBTree2#0" expanded="false" />
+            <element signature="class#RBNode#0;class#RBTree2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/graph/WeightGraph/undirectedGraph/LazyPrimMST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/graph/WeightGraph/undirectedGraph/PrimMST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/graph/WeightGraph/undirectedGraph/KruskalMST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/graph/WeightGraph/directedGraph/DijkstraSP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-328">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/graph/WeightGraph/directedGraph/AcyclicSP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/graph/WeightGraph/directedGraph/EdgeWeightedDigraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>algorithm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

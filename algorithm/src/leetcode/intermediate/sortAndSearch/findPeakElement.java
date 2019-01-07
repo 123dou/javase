@@ -59,26 +59,4 @@ public class findPeakElement {
         if (nums[i] < nums[j] && nums[j] > nums[k]) return j;
         return findPeakElement(nums, i + 1, j + 1, k + 1);
     }
-
-    /**
-     * 有条件的查找,可以使用二叉
-     *
-     * @param nums
-     * @return
-     */
-    public static int findPeakElement2(int[] nums) {
-        if (nums.length == 1) return 0;
-        if (nums[0] > nums[1]) return 0;
-        if (nums[nums.length - 2] < nums[nums.length - 1]) return nums.length - 1;
-        int low = 0;
-        int high = nums.length - 1;
-        int mid;
-        while (true) {
-            mid = low + (high - low) / 2;
-            if (nums[mid - 1] < nums[mid] && nums[mid] > nums[mid + 1]) return mid;
-            if (nums[mid - 1] < nums[mid] && nums[mid] < nums[mid + 1]) low = mid;
-            else high = mid;
-        }
-    }
-
 }
